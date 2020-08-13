@@ -8,9 +8,12 @@ Let me introduce myself. My name is Ilya Mikheev, i'm java developer. Work since
 
 #### Languages and Tools:
 
-[<img align="left" alt="Intellij Idea" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>]
-[<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>]
-[<img align="left" alt="Spring Boot" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>]
+[<img align="left" alt="Intellij Idea" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="Spring Boot" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img align="left" alt="Apache Kafka" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/kafka.png"/>
+<img align="left" alt="RabbitMQ" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/rabbitmq.png"/>
+<img align="left" alt="PostgreSQL" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/icons8-postgresql-48.png"/>]
 
 
 
