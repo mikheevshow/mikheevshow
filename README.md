@@ -14,6 +14,7 @@ My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
 [<img align="left" alt="Apache Kafka" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/kafka.png"/>][kafka]
 [<img align="left" alt="RabbitMQ" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/rabbitmq.png"/>][rabbitmq]
 [<img align="left" alt="PostgreSQL" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/icons8-postgresql-48.png"/>][postgresql]
+[<img align="left" alt="Hibernate" width="48px" src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" />][hibernate]
 
 </br>
 </br>
@@ -24,6 +25,7 @@ My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
 [kafka]: https://kafka.apache.org/
 [rabbitmq]: https://www.rabbitmq.com/
 [postgresql]: https://www.postgresql.org/
+[hibernate]: https://hibernate.org/
 
 
 
