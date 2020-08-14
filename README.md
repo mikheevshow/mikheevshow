@@ -8,7 +8,8 @@ My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
 
 #### Things and Technologies That Interest Me:
 
-- Vue Framework
+- Vue Framework <img align="left" alt="Intellij Idea" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vue-dot-js-256.png"/>
+
 - Machine Learning and Natural Language Processing
 
 #### Languages and Tools:
@@ -20,6 +21,7 @@ My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
 [<img align="left" alt="RabbitMQ" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/rabbitmq.png"/>][rabbitmq]
 [<img align="left" alt="PostgreSQL" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/icons8-postgresql-48.png"/>][postgresql]
 [<img align="left" alt="Hibernate" width="48px" src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" />][hibernate]
+[<img align="left" alt="Hibernate" width="48px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
 [<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/2x/elasticsearch.png"/>][es]
 [<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/docker.png"/>][docker]
 [<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/kubernetes.png"/>][k8s]
@@ -37,6 +39,7 @@ My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
 [es]: https://www.elastic.co/brand
 [docker]: https://www.docker.com/
 [k8s]: https://kubernetes.io/ru/
+[redis]: https://redis.io/
 
 
 
