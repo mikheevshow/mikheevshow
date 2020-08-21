@@ -1,6 +1,6 @@
 ### Let me introduce myself 👋
 
-My name is Ilya Mikheev. Work since 2018 as java developer. Live in Moscow.
+My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 #### I'm Currently Working On
 
