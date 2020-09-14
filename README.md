@@ -31,7 +31,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 #### Articles
 
-[Сборка Docker образа для управления статическим контентом](https://github.com/mikheevshow/articles/blob/master/docker/NGINX_AS_STATIC_SERVER.MD)
+[Сборка Docker образа NGINX для управления статическим контентом](https://github.com/mikheevshow/articles/blob/master/docker/NGINX_AS_STATIC_SERVER.MD)
 
 </br>
 </br>
