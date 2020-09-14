@@ -26,6 +26,9 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 [<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/docker.png"/>][docker]
 [<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/kubernetes.png"/>][k8s]
 
+</br>
+</br>
+
 #### Articles
 
 [Сборка Docker образа для управления статическим контентом](https://github.com/mikheevshow/articles/blob/master/docker/NGINX_AS_STATIC_SERVER.MD)
