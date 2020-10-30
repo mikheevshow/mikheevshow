@@ -4,7 +4,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 #### I'm Currently Working On
 
-🤖 [*Chengine*](https://github.com/mikheevshow/chengine) - it's a framework, that can help you to create chat bots for different platforms (Telegram, Viber, ТамТам etc). The slogan - "Written once, works with everything."
+🤖 [*Chengine*](https://github.com/mikheevshow/chengine) - framework for chat bots creation!
 
 #### Things and Technologies That Interest Me:
 
