@@ -4,7 +4,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 #### I'm Currently Working On
 
-🤖 [*Chengine*](https://github.com/mikheevshow/chengine) - framework for chat bots creation!
+🤖 [*Chengine*](https://github.com/mikheevshow/chengine) - framework for creating chat bots
 
 #### Things and Technologies That Interest Me:
 
