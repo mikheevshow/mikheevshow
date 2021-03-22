@@ -12,19 +12,26 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 - Machine Learning and Natural Language Processing
 
+#### Languages I use:
+
+[<img align="left" alt="Kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>][kotlin]
+[<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][openjdk]
+
+</br>
+</br>
+
 #### Languages and Tools:
 
 [<img align="left" alt="Intellij Idea" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>][jetbrains]
-[<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][openjdk]
 [<img align="left" alt="Spring Boot" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][springboot]
 [<img align="left" alt="Apache Kafka" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/kafka.png"/>][kafka]
 [<img align="left" alt="RabbitMQ" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/rabbitmq.png"/>][rabbitmq]
 [<img align="left" alt="PostgreSQL" width="48px" src="https://raw.githubusercontent.com/mikheevshow/mikheevshow/master/icons8-postgresql-48.png"/>][postgresql]
 [<img align="left" alt="Hibernate" width="48px" src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" />][hibernate]
-[<img align="left" alt="Hibernate" width="48px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
-[<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/2x/elasticsearch.png"/>][es]
-[<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/docker.png"/>][docker]
-[<img align="left" alt="Hibernate" width="48px" src="https://img.icons8.com/color/72/kubernetes.png"/>][k8s]
+[<img align="left" alt="REDIS" width="48px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" />][redis]
+[<img align="left" alt="ES" width="48px" src="https://img.icons8.com/color/2x/elasticsearch.png"/>][es]
+[<img align="left" alt="Docker" width="48px" src="https://img.icons8.com/color/72/docker.png"/>][docker]
+[<img align="left" alt="K8s" width="48px" src="https://img.icons8.com/color/72/kubernetes.png"/>][k8s]
 
 </br>
 </br>
@@ -47,6 +54,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 [docker]: https://www.docker.com/
 [k8s]: https://kubernetes.io/ru/
 [redis]: https://redis.io/
+[kotlin]: https://kotlinlang.org/
 
 
 
