@@ -12,7 +12,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 - Machine Learning and Natural Language Processing
 
-#### Languages I use:
+#### Languages I Use:
 
 [<img align="left" alt="Kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>][kotlin]
 [<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][openjdk]
@@ -20,7 +20,7 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 </br>
 </br>
 
-#### Languages and Tools:
+#### Tools I Use:
 
 [<img align="left" alt="Intellij Idea" width="48px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>][jetbrains]
 [<img align="left" alt="Spring Boot" width="48px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][springboot]
