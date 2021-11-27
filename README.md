@@ -8,9 +8,10 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 #### Things and Technologies That Interest Me:
 
-- Vue Framework <img align="left" alt="Intellij Idea" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vue-dot-js-256.png"/>
-
-- Machine Learning and Natural Language Processing
+- Spectral Analysis
+- Statistical Analysis
+- Machine Learning
+- R lang
 
 #### Languages I Use:
 
