@@ -6,13 +6,6 @@ My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
 
 🤖 [*Chengine*](https://github.com/mikheevshow/chengine) - framework for creating chat bots
 
-#### Things and Technologies That Interest Me:
-
-- Spectral Analysis
-- Statistical Analysis
-- Machine Learning
-- R lang
-
 #### Languages I Use:
 
 [<img align="left" alt="Kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>][kotlin]
