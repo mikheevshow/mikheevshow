@@ -1,11 +1,9 @@
-### Let me introduce myself 👋
 
-My name is Ilya Mikheev. Work since 2018 as a java developer. Live in Moscow.
+#### Technologies and Tools I Use:
 
-#### Languages I Use:
-
-[<img align="left" alt="Kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>][kotlin]
-[<img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>][openjdk]
+| Backend Development    | Machine Learning                     |
+|-----------|---------------------------------------------------|
+| <img align="left" alt="Kotlin" width="48px" src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img align="left" alt="Java" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> | <img align="left" alt="Python" width="48px" src="https://github.com/mikheevshow/mikheevshow/assets/10999015/dfb6748c-6eac-4dd0-a58c-6814ca020113"/> <img align="left" alt="Python" height="48px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png"/>          |
 
 </br>
 </br>
