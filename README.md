@@ -16,6 +16,6 @@ _Skoltech_ – AI Research Engineer
 
 ## 🎓 Education
 
-National Research Nuclear University MEPhI – B.Sc. (2014-2018)
+[National Research Nuclear University MEPhI](https://mephi.ru/) – B.Sc. (2014-2018)
 
-Central University – M.Sc. (2024-2026)
+[Central University](https://cu.ru/) – M.Sc. (2024-2026)
