@@ -1,20 +1,20 @@
 # Hi there! 
 
-💼 Professional Experience
+## 💼 Professional Experience
 
-SBER – Software Engineer
+_SBER_ – Software Engineer
 
-Alibaba Russia – Senior Software Engineer
+_Alibaba Russia_ – Senior Software Engineer
 
-T-Bank (ex-Tinkoff) – Senior Software Engineer
+_T-Bank_ (ex-Tinkoff) – Senior Software Engineer
 
-Megafon – Machine Learning Specialist
+_Megafon_ – Machine Learning Specialist
 
-Skoltech – AI Research Engineer
+_Skoltech_ – AI Research Engineer
 
 
 
-🎓 Education
+## 🎓 Education
 
 National Research Nuclear University MEPhI – B.Sc. (2014-2018)
 
