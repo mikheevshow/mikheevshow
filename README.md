@@ -1,21 +1,31 @@
-# Hi there! 
+Hi! I'm Ilia Mikheev. Currently hold a position of AI Research Engineer at Skoltech.
 
-## 💼 Professional Experience
+## Job Experience
 
-_SBER_ – Software Engineer
+**AI Research Engineer**  
+Skolkovo Institute of Science and Technology, Moscow, Russia  
+*September 2025 – current*  
 
-_Alibaba Russia_ – Senior Software Engineer
+**Machine Learning Specialist**  
+Megafon, Moscow, Russia  
+*March 2025 – August 2025*  
 
-_T-Bank_ (ex-Tinkoff) – Senior Software Engineer
+**Senior Software Engineer**  
+Tinkoff Bank, Moscow, Russia  
+*September 2022 – August 2024*  
 
-_Megafon_ – Machine Learning Specialist
+**Senior Software Engineer**  
+Alibaba, Moscow, Russia  
+*September 2020 – July 2022*  
 
-_Skoltech_ – AI Research Engineer
+## Education
 
+**M.Sc. in Mathematics & Computer Science**  
+Central University, Moscow, Russia  
+*September 2024 – June 2026*  
+GPA: 4.0/4.0 | Thesis: "TBD"
 
-
-## 🎓 Education
-
-[National Research Nuclear University MEPhI](https://mephi.ru/) – B.Sc. (2014-2018)
-
-[Central University](https://cu.ru/) – M.Sc. (2024-2026)
+**B.Sc. in Applied Mathematics & Computer Science**  
+National Research Nuclear University (MEPhI), Moscow, Russia  
+*September 2014 – July 2018*  
+GPA: 3.16/4 | Thesis: "Evolution of a Cylindrical Rayleigh Wave in an Elastoplastic Medium with Weak Vertical Inhomogeneity"
