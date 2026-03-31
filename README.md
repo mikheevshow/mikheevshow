@@ -23,7 +23,7 @@ Alibaba, Moscow, Russia
 **M.Sc. in Mathematics & Computer Science**  
 Central University, Moscow, Russia  
 *September 2024 – June 2026*  
-GPA: 4.0/4.0 | Thesis: "TBD"
+GPA: 4.0/4.0 | Thesis: "Joint Analysis of Neurophysiological Data and Latent Representations of Language Models in Processing Linguistic Impairments"
 
 **B.Sc. in Applied Mathematics & Computer Science**  
 National Research Nuclear University (MEPhI), Moscow, Russia  
